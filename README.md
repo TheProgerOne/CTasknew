@@ -1,3 +1,3 @@
 # CTasknew
 
-![application image](https://github.com/TheProgerOne/Weather_application/blob/main/picture.png?raw=true)
+![application image](https://github.com/TheProgerOne/CTasknew/blob/master/121.png?raw=true)
